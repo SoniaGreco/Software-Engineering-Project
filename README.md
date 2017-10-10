@@ -1,8 +1,8 @@
-Software Engineering 2 - Travelendar+ Project
+Software Engineering 2 - Travlendar+ Project
 
 	#################
-	||  TRAVELENDAR+  || 
-	||      GrecoGuzzo       ||
+	|| TRAVLENDAR+ || 
+	||  GrecoGuzzo ||
 	#################
 
 
