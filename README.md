@@ -1,4 +1,5 @@
-Software Engineering 2 - Travlendar+ Project
+#Software Engineering 2 
+## Travlendar+ Project
 
 	#################
 	|| TRAVLENDAR+ || 
@@ -6,5 +7,7 @@ Software Engineering 2 - Travlendar+ Project
 	#################
 
 
-Sonia Greco		    matricola 893706
-Francesco Guzzo     matricola 898035
+**Sonia Greco**		    _matricola_ 893706
+**Francesco Guzzo**     _matricola_ 898035
+
+Link to our repository. [click here] (https://github.com/SoniaGreco/GrecoGuzzo)
