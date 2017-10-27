@@ -1,6 +1,6 @@
 
 ## Travlendar+ Project
-_Software Engineering 2 _
+_Software Engineering 2_
 
 	#################
 	|| TRAVLENDAR+ || 
